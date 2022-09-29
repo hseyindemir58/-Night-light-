@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background: black;
+    font-family: sans-serif;
+}
+
+
+
+h1{
+    background-color: rgb(72, 255, 0);
+    color: red;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 40px;
+    padding: 15px 50px;
+    margin: 45px;
+}
+
+
+a{
+background-color: rgb(136, 0, 102);
+color: rgb(0, 183, 255);
+text-decoration: none;
+font-family: Arial;
+font-size: 35px;
+padding: 15px 50px;
+margin: 40px;
+}
